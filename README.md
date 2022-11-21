@@ -20,7 +20,7 @@ This repository contains the MATLAB code for our algorithm **MRIR-DLMC** used to
 	volume = {37},
 	number = {9},
 	pages = {095007},
-    author = {Timothée Schmoderer and Angelica I Aviles-Rivero and Veronica Corona and Noémie Debroux and Carola-Bibiane Schönlieb},
+	author = {Timothée Schmoderer and Angelica I Aviles-Rivero and Veronica Corona and Noémie Debroux and Carola-Bibiane Schönlieb},
 	title = {Learning optical flow for fast MRI reconstruction},
 	journal = {Inverse Problems}
 }
