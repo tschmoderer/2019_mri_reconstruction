@@ -1,0 +1,11 @@
+parameters for the first success
+    
+    par0.tvWeight  = 0.003; % lambda1, default = 0.002
+    par0.xfmWeight = 0.0001; % lambda2, default = 0.005
+    par0.ofWeight  = 0.001; % lambda3, default = 0.001
+    par0.diWeight  = 0.001; % lambda4, default = 0.001
+    par0.spWeight  = 0.001; % lambda5
+    par0.gofWeight = 0.0001; % lambda6   
+    
+    
+
