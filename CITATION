@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Schmoderer"
+    given-names: "Timothée"
+    orcid: "https://orcid.org/0000-0003-1748-1763"
+  
+  - family-names: "Aviles-Rivero"
+    given-names: "Angelica I."
+    orcid: "https://orcid.org/0000-0002-8878-0325"
+  
+  - family-names: "Corona"
+    given-names: "Veronica"
+    orcid: "https://orcid.org/0000-0003-2160-5482"
+  
+  - family-names: "Debroux"
+    given-names: "Noémie"
+    orcid: "https://orcid.org/0000-0002-5329-5485"
+  
+  - family-names: "Schönlieb"
+    given-names: "Carola-Bibiane"
+    orcid: "https://orcid.org/0000-0003-0099-6306"
+  
+  doi: "10.1088/1361-6420/ac164a"
+  journal: "Inverse Problems"
+  month: 9
+  start: 095007 # First page number
+  title: "Learning optical flow for fast MRI reconstruction"
+  issue: 9
+  volume: 37
+  year: 2021
+	url = "https://dx.doi.org/10.1088/1361-6420/ac164a",
+	publisher = "IOP Publishing",
+
