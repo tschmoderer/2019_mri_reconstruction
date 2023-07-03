@@ -42,9 +42,8 @@ preferred-citation:
   doi: "10.1088/1361-6420/ac164a"
   journal: "Inverse Problems"
   month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
   title: "Learning optical flow for fast MRI reconstruction"
   issue: 9
   volume: 37
-  year: 2021
+  year: 2021  
+  publisher = "IOP Publishing"
