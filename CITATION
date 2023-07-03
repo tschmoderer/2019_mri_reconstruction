@@ -16,11 +16,11 @@ authors:
   - family-names: "Schönlieb"
     given-names: "Carola-Bibiane"
     orcid: "https://orcid.org/0000-0003-0099-6306" 
-title: "My Research Software"
+title: "Learning optical flow for fast MRI reconstruction"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
+doi: 10.1088/1361-6420/ac164a
 date-released: 2017-12-18
-url: "https://github.com/github-linguist/linguist"
+url: "https://dx.doi.org/10.1088/1361-6420/ac164a"
 preferred-citation:
   type: article
   authors:
@@ -39,12 +39,12 @@ preferred-citation:
   - family-names: "Schönlieb"
     given-names: "Carola-Bibiane"
     orcid: "https://orcid.org/0000-0003-0099-6306" 
-  doi: "10.0000/00000"
-  journal: "Journal Title"
+  doi: "10.1088/1361-6420/ac164a"
+  journal: "Inverse Problems"
   month: 9
   start: 1 # First page number
   end: 10 # Last page number
-  title: "My awesome research software"
-  issue: 1
-  volume: 1
+  title: "Learning optical flow for fast MRI reconstruction"
+  issue: 9
+  volume: 37
   year: 2021
